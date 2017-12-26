@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "Admin\Admin.csproj", "{741593FD-027B-4BDB-B371-E20013860575}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.Web", "Admin\Apps.Web.csproj", "{741593FD-027B-4BDB-B371-E20013860575}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
